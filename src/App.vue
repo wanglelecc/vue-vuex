@@ -5,13 +5,12 @@
 </template>
 
 <script>
-import Hello from './components/Hello'
+
 import Raiing from './components/Raiing'
 
 export default {
   name: 'app',
   components: {
-    Hello,
     Raiing
   }
 }
